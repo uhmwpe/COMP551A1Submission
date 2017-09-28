@@ -1,4 +1,4 @@
-﻿<dialogue>
+﻿<dialog>
 	<s><utt uid="1">翻到第一条回答～</utt><utt uid="2">+1</utt><utt uid="3">这应该不是第一条回答，该回答的answer_id（data_aid）=3  ，相应的评论为http://www.zhihu.com/node/AnswerCommentBoxV2?params=%7B%22answer_id%22%3A%223%22%2C%22load_all%22%3Afalse%7D#当answer_id（data_aid）=1 时还有评论：『杨昆小电同学习惯是左手还是右手？2010-12-20 回复赞 0 赞 举报』，只不过暂时我还没找到相应的回答）</utt></s>
 	<s><utt uid="1">强烈建议开发手机客户端，利用零碎时间来获得知识，对高端用户是很有吸引力的。</utt><utt uid="2">握爪</utt></s>
 	<s><utt uid="1">建议解释“收藏夹”功能，曾经没搞清收藏夹和问题关注的正确用法～</utt><utt uid="2">善用搜索哟。「如何使用知乎的收藏功能？」http://www.zhihu.com/question/19864578关注问题后会收到后续新增回答。</utt></s>
@@ -8347,5 +8347,5 @@
     <utt uid="2">迈腿。（乙迈步下场）</utt>
     <utt uid="1">快追。（甲迈步下场）</utt>
   </s>
-</dialogue>
+</dialog>
 
